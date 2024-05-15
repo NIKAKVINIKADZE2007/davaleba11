@@ -2,7 +2,7 @@ const products1 = [
   {
     title: 'Zone Sweatshirt',
     price: '$19.95 – $159.95',
-    img: '/assets/div.product-top.png',
+    img: './assets/div.product-top (4).png',
   },
   {
     title: 'Black Jeans',
